@@ -1,0 +1,69 @@
+<resources>
+    <string name="app_name">Citana</string>
+
+    <string name="retry">Reintentar</string>
+    <string name="cancel">Cancelar</string>
+    <string name="cont">Continuar</string>
+    <string name="error_generic">Algo salió mal. Inténtalo de nuevo.</string>
+    <string name="offline_note">Estás sin conexión: mostrando datos guardados.</string>
+    <string name="minutes">%1$d min</string>
+    <string name="reviews">%1$d reseñas</string>
+
+    <string name="nav_home">Inicio</string>
+    <string name="nav_bookings">Reservas</string>
+    <string name="nav_profile">Perfil</string>
+
+    <string name="auth_welcome">Bienvenido a Citana</string>
+    <string name="auth_subtitle">Reserva citas con los mejores profesionales locales.</string>
+    <string name="auth_name">Nombre completo</string>
+    <string name="auth_email">Correo</string>
+    <string name="auth_password">Contraseña</string>
+    <string name="auth_sign_in">Iniciar sesión</string>
+    <string name="auth_sign_up">Crear cuenta</string>
+    <string name="auth_toggle_to_sign_up">¿Nuevo aquí? Crea una cuenta</string>
+    <string name="auth_toggle_to_sign_in">¿Ya tienes cuenta? Inicia sesión</string>
+    <string name="auth_or">o</string>
+    <string name="auth_demo">Probar la demo</string>
+    <string name="auth_error">No se pudo continuar. Revisa tus datos e inténtalo de nuevo.</string>
+
+    <string name="home_hello">Hola%1$s</string>
+    <string name="home_subtitle">¿Qué te gustaría reservar?</string>
+    <string name="home_categories">Categorías</string>
+    <string name="home_featured">Profesionales destacados</string>
+    <string name="home_see_all">Ver todos</string>
+
+    <string name="browse_search">Buscar profesionales</string>
+    <string name="browse_empty">No se encontraron profesionales</string>
+
+    <string name="provider_about">Acerca de</string>
+    <string name="provider_services">Servicios</string>
+    <string name="provider_book">Reservar</string>
+
+    <string name="book_title">Reservar cita</string>
+    <string name="book_pick_date">Elige una fecha</string>
+    <string name="book_pick_time">Elige una hora</string>
+    <string name="book_no_slots">No hay horarios disponibles este día.</string>
+    <string name="book_confirm">Confirmar reserva</string>
+    <string name="book_booking">Reservando…</string>
+    <string name="book_success">¡Reserva confirmada!</string>
+    <string name="book_failed">No se pudo reservar ese horario. Prueba con otro.</string>
+
+    <string name="bookings_empty_title">Aún no tienes reservas</string>
+    <string name="bookings_empty_body">Tus citas aparecerán aquí.</string>
+    <string name="bookings_upcoming">Próximas</string>
+    <string name="bookings_past">Pasadas</string>
+    <string name="bookings_cancel">Cancelar reserva</string>
+    <string name="bookings_cancelled_toast">Reserva cancelada</string>
+    <string name="status_confirmed">Confirmada</string>
+    <string name="status_cancelled">Cancelada</string>
+
+    <string name="profile_title">Perfil</string>
+    <string name="profile_account">Cuenta</string>
+    <string name="profile_appearance">Apariencia</string>
+    <string name="profile_theme">Tema</string>
+    <string name="profile_theme_system">Sistema</string>
+    <string name="profile_theme_light">Claro</string>
+    <string name="profile_theme_dark">Oscuro</string>
+    <string name="profile_language">Idioma</string>
+    <string name="profile_sign_out">Cerrar sesión</string>
+</resources>

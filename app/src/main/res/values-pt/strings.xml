@@ -1,0 +1,69 @@
+<resources>
+    <string name="app_name">Citana</string>
+
+    <string name="retry">Tentar novamente</string>
+    <string name="cancel">Cancelar</string>
+    <string name="cont">Continuar</string>
+    <string name="error_generic">Algo deu errado. Tente novamente.</string>
+    <string name="offline_note">Você está offline: mostrando dados salvos.</string>
+    <string name="minutes">%1$d min</string>
+    <string name="reviews">%1$d avaliações</string>
+
+    <string name="nav_home">Início</string>
+    <string name="nav_bookings">Reservas</string>
+    <string name="nav_profile">Perfil</string>
+
+    <string name="auth_welcome">Bem-vindo ao Citana</string>
+    <string name="auth_subtitle">Agende com os melhores profissionais locais.</string>
+    <string name="auth_name">Nome completo</string>
+    <string name="auth_email">E-mail</string>
+    <string name="auth_password">Senha</string>
+    <string name="auth_sign_in">Entrar</string>
+    <string name="auth_sign_up">Criar conta</string>
+    <string name="auth_toggle_to_sign_up">Novo por aqui? Crie uma conta</string>
+    <string name="auth_toggle_to_sign_in">Já tem conta? Entre</string>
+    <string name="auth_or">ou</string>
+    <string name="auth_demo">Testar a demo</string>
+    <string name="auth_error">Não foi possível continuar. Confira seus dados e tente novamente.</string>
+
+    <string name="home_hello">Olá%1$s</string>
+    <string name="home_subtitle">O que você gostaria de agendar?</string>
+    <string name="home_categories">Categorias</string>
+    <string name="home_featured">Profissionais em destaque</string>
+    <string name="home_see_all">Ver todos</string>
+
+    <string name="browse_search">Buscar profissionais</string>
+    <string name="browse_empty">Nenhum profissional encontrado</string>
+
+    <string name="provider_about">Sobre</string>
+    <string name="provider_services">Serviços</string>
+    <string name="provider_book">Agendar</string>
+
+    <string name="book_title">Agendar horário</string>
+    <string name="book_pick_date">Escolha uma data</string>
+    <string name="book_pick_time">Escolha um horário</string>
+    <string name="book_no_slots">Sem horários disponíveis neste dia.</string>
+    <string name="book_confirm">Confirmar agendamento</string>
+    <string name="book_booking">Agendando…</string>
+    <string name="book_success">Agendamento confirmado!</string>
+    <string name="book_failed">Não foi possível agendar esse horário. Tente outro.</string>
+
+    <string name="bookings_empty_title">Você ainda não tem reservas</string>
+    <string name="bookings_empty_body">Seus agendamentos aparecerão aqui.</string>
+    <string name="bookings_upcoming">Próximos</string>
+    <string name="bookings_past">Anteriores</string>
+    <string name="bookings_cancel">Cancelar reserva</string>
+    <string name="bookings_cancelled_toast">Reserva cancelada</string>
+    <string name="status_confirmed">Confirmado</string>
+    <string name="status_cancelled">Cancelado</string>
+
+    <string name="profile_title">Perfil</string>
+    <string name="profile_account">Conta</string>
+    <string name="profile_appearance">Aparência</string>
+    <string name="profile_theme">Tema</string>
+    <string name="profile_theme_system">Sistema</string>
+    <string name="profile_theme_light">Claro</string>
+    <string name="profile_theme_dark">Escuro</string>
+    <string name="profile_language">Idioma</string>
+    <string name="profile_sign_out">Sair</string>
+</resources>
