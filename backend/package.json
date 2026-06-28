@@ -5,7 +5,6 @@
   "scripts": {
     "dev": "tsx watch src/local.ts",
     "start": "tsx src/local.ts",
-    "build": "tsc -p tsconfig.json",
     "typecheck": "tsc --noEmit",
     "seed": "tsx src/seed.ts",
     "smoke": "tsx src/smoke.ts"
