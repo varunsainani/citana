@@ -1,0 +1,34 @@
+# --- secrets (NEVER commit) ---
+*-firebase-adminsdk-*.json
+citana-firebase-admin.json
+google-services.json
+*.keystore
+!debug.keystore
+.env
+.env.*
+backend/.env
+backend/.env.*
+
+# --- Android / Gradle ---
+*.iml
+.gradle/
+local.properties
+.idea/
+**/build/
+captures/
+.externalNativeBuild/
+.cxx/
+*.apk
+*.ap_
+*.aab
+output.json
+
+# --- Node (backend) ---
+node_modules/
+.vercel
+dist/
+
+# --- misc ---
+.DS_Store
+*.log
+/screenshots
