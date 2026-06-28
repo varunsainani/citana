@@ -1,3 +1,78 @@
 <resources>
     <string name="app_name">Citana</string>
+
+    <!-- common -->
+    <string name="retry">Retry</string>
+    <string name="cancel">Cancel</string>
+    <string name="cont">Continue</string>
+    <string name="error_generic">Something went wrong. Please try again.</string>
+    <string name="offline_note">You\'re offline — showing saved data.</string>
+    <string name="minutes">%1$d min</string>
+    <string name="reviews">%1$d reviews</string>
+
+    <!-- nav -->
+    <string name="nav_home">Home</string>
+    <string name="nav_bookings">Bookings</string>
+    <string name="nav_profile">Profile</string>
+
+    <!-- auth -->
+    <string name="auth_welcome">Welcome to Citana</string>
+    <string name="auth_subtitle">Book appointments with the best local pros.</string>
+    <string name="auth_name">Full name</string>
+    <string name="auth_email">Email</string>
+    <string name="auth_password">Password</string>
+    <string name="auth_sign_in">Sign in</string>
+    <string name="auth_sign_up">Create account</string>
+    <string name="auth_toggle_to_sign_up">New here? Create an account</string>
+    <string name="auth_toggle_to_sign_in">Already have an account? Sign in</string>
+    <string name="auth_or">or</string>
+    <string name="auth_demo">Try the demo</string>
+    <string name="auth_error">Could not continue. Check your details and try again.</string>
+
+    <!-- home -->
+    <string name="home_hello">Hello%1$s</string>
+    <string name="home_subtitle">What would you like to book?</string>
+    <string name="home_categories">Categories</string>
+    <string name="home_featured">Featured pros</string>
+    <string name="home_see_all">See all</string>
+
+    <!-- browse -->
+    <string name="browse_search">Search pros</string>
+    <string name="browse_empty">No pros found</string>
+
+    <!-- provider -->
+    <string name="provider_about">About</string>
+    <string name="provider_services">Services</string>
+    <string name="provider_book">Book</string>
+
+    <!-- booking -->
+    <string name="book_title">Book appointment</string>
+    <string name="book_pick_date">Choose a date</string>
+    <string name="book_pick_time">Choose a time</string>
+    <string name="book_no_slots">No times available on this day.</string>
+    <string name="book_confirm">Confirm booking</string>
+    <string name="book_booking">Booking…</string>
+    <string name="book_success">Booking confirmed!</string>
+    <string name="book_failed">Could not book that time. Please try another.</string>
+
+    <!-- bookings -->
+    <string name="bookings_empty_title">No bookings yet</string>
+    <string name="bookings_empty_body">Your appointments will appear here.</string>
+    <string name="bookings_upcoming">Upcoming</string>
+    <string name="bookings_past">Past</string>
+    <string name="bookings_cancel">Cancel booking</string>
+    <string name="bookings_cancelled_toast">Booking cancelled</string>
+    <string name="status_confirmed">Confirmed</string>
+    <string name="status_cancelled">Cancelled</string>
+
+    <!-- profile -->
+    <string name="profile_title">Profile</string>
+    <string name="profile_account">Account</string>
+    <string name="profile_appearance">Appearance</string>
+    <string name="profile_theme">Theme</string>
+    <string name="profile_theme_system">System</string>
+    <string name="profile_theme_light">Light</string>
+    <string name="profile_theme_dark">Dark</string>
+    <string name="profile_language">Language</string>
+    <string name="profile_sign_out">Sign out</string>
 </resources>
